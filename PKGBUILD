@@ -1,6 +1,4 @@
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
-# Contributor: Sebastian A. Liem <sebastian at liem dot se>
-
+# Maintainer: Archwizard <archwizard101@gmail.com>
 pkgname=slock
 pkgver=1.4
 pkgrel=3
