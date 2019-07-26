@@ -1,0 +1,11 @@
+--- config.def.h	2019-07-26 12:12:05.930000002 -0700
++++ config.def.h	2019-07-26 12:13:17.193333350 -0700
+@@ -18,7 +18,7 @@
+ static const int monitortime = 5;
+ 
+ /* default message */
+-static const char * message = "Suckless: Software that sucks less.";
++static const char * message = "Authenticate Yourself";
+ 
+ /* text color */
+ static const char * text_color = "#ffffff";
